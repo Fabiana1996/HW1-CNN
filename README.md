@@ -7,8 +7,8 @@ A deep model that consists of 4 Convolutional Layers, to extract and recognize i
 ![New Text Document drawio (2)](https://user-images.githubusercontent.com/102547301/164470194-bef55b01-8773-4e4a-b029-c70a2e56a010.png)
 
 ## Dataset
-Since the dimension of the file zip of the dataset exceeds the 100 MB we cannot upload the data on the reposity.
-Anyway, we provide the link in which it is possible to download the data the we have used in our model.
+Since the dimension of the file zip of the dataset exceeds the 100 MB, we cannot upload the data on the repository.
+Anyway, we provide the link in which it is possible to download the data that we have used in our model.
 
 DOWNLOAD the data at the following link:
 
